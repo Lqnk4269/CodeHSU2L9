@@ -5,7 +5,7 @@ public class LiftsTester
         
         
         // Create variables 
-        
+        var x = 0;
         
         /* This method takes a Double (object).
          * Note that both calls work. The
